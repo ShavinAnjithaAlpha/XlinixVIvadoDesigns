@@ -1,0 +1,12 @@
+
+{ 
+    crc :  4289249182249418854  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto 5f279b2e119a4ded98e51b0d5de4e977 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot TB_Mux_8_to_1_behav xil_defaultlib.TB_Mux_8_to_1" , 
+    buildDate : "Jun 14 2018" , 
+    buildTime : "20:41:02" , 
+    linkCmd : "D:\\Applications\\XlinixVivado\\Vivado\\2018.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/TB_Mux_8_to_1_behav/xsimk.exe\"   \"xsim.dir/TB_Mux_8_to_1_behav/obj/xsim_0.win64.obj\" \"xsim.dir/TB_Mux_8_to_1_behav/obj/xsim_1.win64.obj\" \"D:\\Applications\\XlinixVivado\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simulator_kernel.dll\"  \"D:\\Applications\\XlinixVivado\\Vivado\\2018.2\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

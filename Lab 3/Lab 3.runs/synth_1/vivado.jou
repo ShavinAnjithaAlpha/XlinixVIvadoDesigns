@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Mar 15 15:48:16 2023
+# Process ID: 2252
+# Current directory: D:/Projects/XlinixVivadoProjects/Lab 3/Lab 3.runs/synth_1
+# Command line: vivado.exe -log RCA_4.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source RCA_4.tcl
+# Log file: D:/Projects/XlinixVivadoProjects/Lab 3/Lab 3.runs/synth_1/RCA_4.vds
+# Journal file: D:/Projects/XlinixVivadoProjects/Lab 3/Lab 3.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source RCA_4.tcl -notrace
