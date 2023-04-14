@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1678875742">
+  <File Type="BITSTR-BMM" Name="RCA_4_bd.bmm"/>
   <File Type="ROUTE-PWR" Name="RCA_4_power_routed.rpt"/>
   <File Type="PA-TCL" Name="RCA_4.tcl"/>
-  <File Type="BITSTR-BMM" Name="RCA_4_bd.bmm"/>
+  <File Type="OPT-DCP" Name="RCA_4_opt.dcp"/>
   <File Type="ROUTE-PWR-SUM" Name="RCA_4_power_summary_routed.pb"/>
   <File Type="REPORTS-TCL" Name="RCA_4_reports.tcl"/>
-  <File Type="OPT-DCP" Name="RCA_4_opt.dcp"/>
   <File Type="OPT-DRC" Name="RCA_4_drc_opted.rpt"/>
   <File Type="OPT-HWDEF" Name="RCA_4.hwdef"/>
   <File Type="PWROPT-DCP" Name="RCA_4_pwropt.dcp"/>
@@ -25,19 +25,20 @@
   <File Type="ROUTE-BLACKBOX-DCP" Name="RCA_4_routed_bb.dcp"/>
   <File Type="ROUTE-DRC" Name="RCA_4_drc_routed.rpt"/>
   <File Type="ROUTE-DRC-PB" Name="RCA_4_drc_routed.pb"/>
-  <File Type="ROUTE-DRC-RPX" Name="RCA_4_drc_routed.rpx"/>
   <File Type="BITSTR-LTX" Name="RCA_4.ltx"/>
-  <File Type="ROUTE-METHODOLOGY-DRC" Name="RCA_4_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-RPX" Name="RCA_4_drc_routed.rpx"/>
   <File Type="BITSTR-MMI" Name="RCA_4.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="RCA_4_methodology_drc_routed.rpt"/>
   <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="RCA_4_methodology_drc_routed.rpx"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="RCA_4_methodology_drc_routed.pb"/>
   <File Type="BITSTR-SYSDEF" Name="RCA_4.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="RCA_4_methodology_drc_routed.pb"/>
   <File Type="ROUTE-PWR-RPX" Name="RCA_4_power_routed.rpx"/>
   <File Type="ROUTE-STATUS" Name="RCA_4_route_status.rpt"/>
   <File Type="ROUTE-STATUS-PB" Name="RCA_4_route_status.pb"/>
   <File Type="ROUTE-TIMINGSUMMARY" Name="RCA_4_timing_summary_routed.rpt"/>
   <File Type="ROUTE-TIMING-PB" Name="RCA_4_timing_summary_routed.pb"/>
   <File Type="ROUTE-TIMING-RPX" Name="RCA_4_timing_summary_routed.rpx"/>
+  <File Type="RDI-RDI" Name="RCA_4.vdi"/>
   <File Type="ROUTE-CLK" Name="RCA_4_clock_utilization_routed.rpt"/>
   <File Type="ROUTE-BUS-SKEW" Name="RCA_4_bus_skew_routed.rpt"/>
   <File Type="ROUTE-BUS-SKEW-PB" Name="RCA_4_bus_skew_routed.pb"/>
@@ -48,7 +49,6 @@
   <File Type="BITSTR-RBT" Name="RCA_4.rbt"/>
   <File Type="BITSTR-NKY" Name="RCA_4.nky"/>
   <File Type="BG-DRC" Name="RCA_4.drc"/>
-  <File Type="RDI-RDI" Name="RCA_4.vdi"/>
   <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
     <Filter Type="Srcs"/>
