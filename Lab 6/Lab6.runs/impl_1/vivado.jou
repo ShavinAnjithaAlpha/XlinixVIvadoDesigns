@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2.1 (64-bit)
+# SW Build 2288692 on Thu Jul 26 18:24:02 MDT 2018
+# IP Build 2289599 on Thu Jul 26 21:09:20 MDT 2018
+# Start of session at: Tue Apr 25 15:58:53 2023
+# Process ID: 8184
+# Current directory: C:/Users/Workshop/Desktop/Lab6/Lab6.runs/impl_1
+# Command line: vivado.exe -log AU.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source AU.tcl -notrace
+# Log file: C:/Users/Workshop/Desktop/Lab6/Lab6.runs/impl_1/AU.vdi
+# Journal file: C:/Users/Workshop/Desktop/Lab6/Lab6.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source AU.tcl -notrace
