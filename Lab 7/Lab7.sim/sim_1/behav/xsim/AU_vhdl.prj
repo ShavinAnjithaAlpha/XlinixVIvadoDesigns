@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../Downloads/FA.vhd" \
+"../../../../../../Downloads/HA.vhd" \
+"../../../../../../Downloads/RCA_4.vhd" \
+"../../../../../../Downloads/Reg.vhd" \
+"../../../../../../Downloads/Slow_Clk.vhd" \
+"../../../../../../Downloads/AU.vhd" \
+
+# Do not sort compile order
+nosort
