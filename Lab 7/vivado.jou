@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon May 29 09:14:59 2023
+# Process ID: 6300
+# Current directory: D:/Projects/XlinixVivadoProjects/Lab 7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16248 D:\Projects\XlinixVivadoProjects\Lab 7\Lab7.xpr
+# Log file: D:/Projects/XlinixVivadoProjects/Lab 7/vivado.log
+# Journal file: D:/Projects/XlinixVivadoProjects/Lab 7\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Projects/XlinixVivadoProjects/Lab 7/Lab7.xpr}
+update_compile_order -fileset sources_1
+close_project
+open_project D:/Projects/NanoProcessor/NanoProcessor.xpr
+update_compile_order -fileset sources_1
+close [ open D:/Projects/NanoProcessor/NanoProcessor.srcs/sources_1/new/ROM_8.vhd w ]
+add_files D:/Projects/NanoProcessor/NanoProcessor.srcs/sources_1/new/ROM_8.vhd
+update_compile_order -fileset sources_1
